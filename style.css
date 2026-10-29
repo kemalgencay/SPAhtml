@@ -1,5 +1,5 @@
 /*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */
-@import "daisyui";
+@plugin "daisyui";
 @layer properties;
 @layer theme, base, components, utilities;
 @layer theme {
